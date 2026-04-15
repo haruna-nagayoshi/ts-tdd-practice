@@ -1,0 +1,26 @@
+{
+  "name": "ts-tdd-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haruna-nagayoshi/ts-tdd-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/haruna-nagayoshi/ts-tdd-practice/issues"
+  },
+  "homepage": "https://github.com/haruna-nagayoshi/ts-tdd-practice#readme",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.4",
+    "typescript": "^6.0.2",
+    "vitest": "^4.1.4"
+  }
+}
